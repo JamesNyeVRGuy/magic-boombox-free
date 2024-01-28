@@ -1,3 +1,9 @@
+# Free Version
+### Info
+This is the free version of the [marketplace plugin](https://www.unrealengine.com/marketplace/en-US/product/magic-boombox)
+
+All of the documentation remains the same, however source files are not included, and there is a **limit of one track** per file type
+
 # Magic Boombox Plugin Documentation
 ## Installation
 
