@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.4.4",
+	"FriendlyName": "MagicBoombox",
+	"Description": "",
+	"Category": "Audio",
+	"CreatedBy": "James Nye VR Guy",
+	"CreatedByURL": "www.jamesnyethevrguy.com",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b2b8c8930f064cdea8bddfc89641f310",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MagicBoombox",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
